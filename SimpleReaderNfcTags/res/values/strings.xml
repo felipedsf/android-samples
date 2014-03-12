@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Reader Nfc Tags</string>
+    <string name="title_dialog">Tag Read</string>
+    <string name="tag_id"> Tag Id: </string>
+    <string name="reader"> Waiting tag! </string>
+
+</resources>
